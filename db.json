@@ -1,9 +1,98 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "login": {
+    "data": {
+        "access_token": "s0m3r8n60m32a1i8h2y9u0t4",
+        "expires_in": 86399,
+        "token_type":"bearer"
+     }
+   },
+  "twoFactorAuth": {
+    "data": {
+        "authenticated": true
+     }
+   },
+  "elections": {
+    "data": [
+      {
+        "ID": 1,
+        "Election_ID": "OSCARSNOMS901",
+        "Election_Name": "STUDENT ACADEMY AWARDS NOMINATIONS",
+        "Election_Year": "90",
+        "Election_ShortDescription": "Desc",
+        "Election_FromDate": "2017-07-03 00:00:00.000",
+        "Election_ToDate": "2017-07-04 00:00:00.000",
+        "Election_PublicKey": "key",
+        "Election_Status": "Draft",
+        "Last_Updated_Date": "2017-07-04 06:13:58.557",
+        "Last_Updated_By": "eliu091",
+        "Created_Date": "2017-07-03 02:57:45.407",
+        "Created_By": "superadmin",
+        "Aux_Field": null
+      },
+      {
+        "ID": 2,
+        "Election_ID": "OSCARSNOMS902",
+        "Election_Name": "BOARD OF GOVERNORS FINALS",
+        "Election_Year": "90",
+        "Election_ShortDescription": "Desc",
+        "Election_FromDate": "2017-07-03 00:00:00.000",
+        "Election_ToDate": "2017-07-17 00:00:00.000",
+        "Election_PublicKey": "key",
+        "Election_Status": "Draft",
+        "Last_Updated_Date": "2017-07-04 06:13:58.557",
+        "Last_Updated_By": "eliu091",
+        "Created_Date": "2017-07-03 02:57:45.407",
+        "Created_By": "superadmin",
+        "Aux_Field": null
+      },
+      {
+        "ID": 3,
+        "Election_ID": "OSCARSNOMS903",
+        "Election_Name": "Oscar Finals Voting",
+        "Election_Year": "90",
+        "Election_ShortDescription": "Desc",
+        "Election_FromDate": "2017-07-27 00:00:00.000",
+        "Election_ToDate": "2017-07-17 00:00:00.000",
+        "Election_PublicKey": "key",
+        "Election_Status": "New",
+        "Last_Updated_Date": "2017-07-04 06:13:58.557",
+        "Last_Updated_By": "eliu091",
+        "Created_Date": "2017-07-03 02:57:45.407",
+        "Created_By": "superadmin",
+        "Aux_Field": null
+      },
+      {
+        "ID": 4,
+        "Election_ID": "OSCARSNOMS904",
+        "Election_Name": "Board of Governors Nominations Voting",
+        "Election_Year": "90",
+        "Election_ShortDescription": "Desc",
+        "Election_FromDate": "2017-08-05 00:00:00.000",
+        "Election_ToDate": "2017-07-29 00:00:00.000",
+        "Election_PublicKey": "key",
+        "Election_Status": "New",
+        "Last_Updated_Date": "2017-07-04 06:13:58.557",
+        "Last_Updated_By": "eliu091",
+        "Created_Date": "2017-07-03 02:57:45.407",
+        "Created_By": "superadmin",
+        "Aux_Field": null
+      },
+      {
+        "ID": 5,
+        "Election_ID": "OSCARSNOMS905",
+        "Election_Name": "Branch Executive Committee Nominations Voting",
+        "Election_Year": "90",
+        "Election_ShortDescription": "Desc",
+        "Election_FromDate": "2017-08-05 00:00:00.000",
+        "Election_ToDate": "2017-08-10 00:00:00.000",
+        "Election_PublicKey": "key",
+        "Election_Status": "New",
+        "Last_Updated_Date": "2017-08-14 06:13:58.557",
+        "Last_Updated_By": "eliu091",
+        "Created_Date": "2017-07-03 02:57:45.407",
+        "Created_By": "superadmin",
+        "Aux_Field": null
+      }
+    ]
+  }
 }
