@@ -105,7 +105,7 @@
     "data": [
       {
         "Contest_ID ": "BP01",
-        "Contest_Name" : "BEST PICTURE",
+        "Contest_Name" : "Best Picture",
         "Contest_Code" : "BP",
         "Contest_NumberToElect" : 5,
         "Contest_Status" : "Active",
