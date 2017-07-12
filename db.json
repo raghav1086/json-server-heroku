@@ -102,119 +102,123 @@
     }
   },
   "contests": {
-    "data": [
-      {
-        "Contest_ID ": "BP01",
-        "Contest_Name" : "Best Picture of 2017",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP02",
-        "Contest_Name" : "Actor in a  Leading Role",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-03 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP03",
-        "Contest_Name" : "Actress in a  Leading Role",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Complete",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-13 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP04",
-        "Contest_Name" : "Actor in a  Supporting Role",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-20 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP04",
-        "Contest_Name" : "Actress in a  Supporting Role",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-20 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP04",
-        "Contest_Name" : "Production Design",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-20 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      },
-      {
-        "Contest_ID ": "BP04",
-        "Contest_Name" : "Sound Mixing",
-        "Contest_Code" : "BP",
-        "Contest_NumberToElect" : 5,
-        "Contest_Status" : "Active",
-        "Contest_Order" : 1,
-        "Election_ID" : 1,
-        "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-        "Last_Updated_By" : "eliu091",
-        "Created_Date" : "2017-08-20 00:00:00.000",
-        "Created_By" : "eliu091",
-        "Contest_Ballot_Style" : "Preferential",
-        "Contest_Selection_Number" : 5,
-        "Contest_Tabulation_Type" : "Preferential"
-      }
-    ]
+    "data": {
+      "electionName": "Oscar Nominations Voting",
+      "deadline": "2017-08-15 17:00:00.000",
+      "contestsData": [
+        {
+          "Contest_ID ": "BP01",
+          "Contest_Name" : "Best Picture of 2017",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-07-03 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-07-03 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP02",
+          "Contest_Name" : "Actor in a  Leading Role",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-03 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP03",
+          "Contest_Name" : "Actress in a  Leading Role",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Complete",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-13 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP04",
+          "Contest_Name" : "Actor in a  Supporting Role",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-20 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP04",
+          "Contest_Name" : "Actress in a  Supporting Role",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-20 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP04",
+          "Contest_Name" : "Production Design",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-20 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        },
+        {
+          "Contest_ID ": "BP04",
+          "Contest_Name" : "Sound Mixing",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 1,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-20 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "Preferential",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential"
+        }
+      ]
+    }
   }
 }
