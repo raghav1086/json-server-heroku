@@ -120,7 +120,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         },
         {
           "Contest_ID ": "BP02",
@@ -136,7 +137,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : false
         },
         {
           "Contest_ID ": "BP03",
@@ -152,7 +154,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         },
         {
           "Contest_ID ": "BP04",
@@ -168,7 +171,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         },
         {
           "Contest_ID ": "BP04",
@@ -184,7 +188,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         },
         {
           "Contest_ID ": "BP04",
@@ -200,7 +205,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         },
         {
           "Contest_ID ": "BP04",
@@ -216,7 +222,8 @@
           "Created_By" : "eliu091",
           "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential"
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true
         }
       ]
     }
