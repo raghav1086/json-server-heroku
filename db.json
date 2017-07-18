@@ -175,7 +175,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP04",
+          "Contest_ID ": "BP05",
           "Contest_Name" : "Actress in a  Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -192,7 +192,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP04",
+          "Contest_ID ": "BP06",
           "Contest_Name" : "Production Design",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -209,7 +209,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP04",
+          "Contest_ID ": "BP07",
           "Contest_Name" : "Sound Mixing",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -226,6 +226,26 @@
           "Is_Eligible" : true
         }
       ]
+    }
+  },
+  "candidates": {
+    "data" : {
+      "Candidates": [{
+        "Candidate_ID" : "0001",
+        "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : true,
+        "Project_Name": "The Finest Hours",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0002",
+        "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : true,
+        "Project_Name": "Triple 9",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      }]
     }
   }
 }
