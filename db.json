@@ -241,8 +241,40 @@
       {
         "Candidate_ID" : "0002",
         "Candidate_Name" : "Casey Affleck",
-        "Is_Added" : true,
+        "Is_Added" : false,
         "Project_Name": "Triple 9",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0003",
+        "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : true,
+        "Project_Name": "Hidden Figures",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0004",
+        "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : false,
+        "Project_Name": "Moonlight",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0005",
+        "Candidate_Name" : "Christian Bale",
+        "Is_Added" : true,
+        "Project_Name": "The Promise",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0006",
+        "Candidate_Name" : "Javier Bardem",
+        "Is_Added" : false,
+        "Project_Name": "The Last Face",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       }]
