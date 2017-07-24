@@ -107,7 +107,7 @@
       "deadline": "2017-08-15 17:00:00.000",
       "contestsData": [
         {
-          "Contest_ID ": "BP01",
+          "Contest_ID": "BP01",
           "Contest_Name" : "Best Picture of 2017",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -124,7 +124,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP02",
+          "Contest_ID": "BP02",
           "Contest_Name" : "Actor in a  Leading Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -141,7 +141,7 @@
           "Is_Eligible" : false
         },
         {
-          "Contest_ID ": "BP03",
+          "Contest_ID": "BP03",
           "Contest_Name" : "Actress in a  Leading Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -158,7 +158,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP04",
+          "Contest_ID": "BP04",
           "Contest_Name" : "Actor in a  Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -175,7 +175,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP05",
+          "Contest_ID": "BP05",
           "Contest_Name" : "Actress in a  Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -192,7 +192,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP06",
+          "Contest_ID": "BP06",
           "Contest_Name" : "Production Design",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
@@ -209,7 +209,7 @@
           "Is_Eligible" : true
         },
         {
-          "Contest_ID ": "BP07",
+          "Contest_ID": "BP07",
           "Contest_Name" : "Sound Mixing",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
