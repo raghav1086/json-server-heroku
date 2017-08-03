@@ -118,11 +118,10 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-07-03 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd01", "cd02", "cd03", "cd04"]
+          "Is_Eligible" : true
         },
         {
           "Contest_ID": "BP02",
@@ -136,7 +135,7 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-03 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : false
@@ -153,7 +152,7 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-13 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true
@@ -170,11 +169,10 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-20 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd05", "cd06", "cd07"]
+          "Is_Eligible" : true
         },
         {
           "Contest_ID": "BP05",
@@ -188,11 +186,10 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-20 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd03", "cd04", "cd05"]
+          "Is_Eligible" : true
         },
         {
           "Contest_ID": "BP06",
@@ -206,32 +203,10 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-20 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateSelect",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": [
-            {
-              "id": 0,
-              "name": "Hell or High Water"
-            },
-            {
-              "id": 1,
-              "name": "La La Land"
-            },
-            {
-              "id": 2,
-              "name": "The Lobster"
-            },
-            {
-              "id": 3,
-              "name": "Manchester by the Sea"
-            },
-            {
-              "id": 4,
-              "name": "20th Century Women"
-            }
-          ]
+          "Is_Eligible" : true
         },
         {
           "Contest_ID": "BP07",
@@ -245,47 +220,10 @@
           "Last_Updated_By" : "eliu091",
           "Created_Date" : "2017-08-20 00:00:00.000",
           "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRating",
+          "Contest_Ballot_Style" : "Preferential",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": [
-            {
-              "id": 0,
-              "name": "Arrival",
-              "lowEnd": 0,
-              "highEnd": 8,
-              "increaments": 1
-            },
-            {
-              "id": 1,
-              "name": "The BFG",
-              "lowEnd": 0,
-              "highEnd": 7,
-              "increaments": 1
-            },
-            {
-              "id": 2,
-              "name": "Captain America: Civil War",
-              "lowEnd": 0,
-              "highEnd": 9,
-              "increaments": 1
-            },
-            {
-              "id": 3,
-              "name": "Deepwater Horizon",
-              "lowEnd": 0,
-              "highEnd": 8,
-              "increaments": 1
-            },
-            {
-              "id": 4,
-              "name": "Doctor Strange",
-              "lowEnd": 0,
-              "highEnd": 6,
-              "increaments": 1
-            }
-          ]
+          "Is_Eligible" : true
         }
       ]
     }
@@ -293,53 +231,128 @@
   "candidates": {
     "data" : {
       "Candidates": [{
-        "Candidate_ID" : "cd01",
+        "Candidate_ID" : "0001",
         "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : true,
         "Project_Name": "The Finest Hours",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
-        "Candidate_ID" : "cd02",
-        "Candidate_Name" : "Lucas Hedges",
-        "Project_Name": "Manchester by the Sea",
+        "Candidate_ID" : "0002",
+        "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : false,
+        "Project_Name": "Triple 9",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
-        "Candidate_ID" : "cd03",
-        "Candidate_Name" : "Dev Patel",
-        "Project_Name": "Lion",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd04",
-        "Candidate_Name" : "Jeff Bridges",
-        "Project_Name": "Hell or High Water",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd05",
-        "Candidate_Name" : "Christian Bale",
-        "Project_Name": "The Promise",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd06",
+        "Candidate_ID" : "0003",
         "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : true,
+        "Project_Name": "Hidden Figures",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0004",
+        "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : false,
         "Project_Name": "Moonlight",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
-        "Candidate_ID" : "cd07",
+        "Candidate_ID" : "0005",
+        "Candidate_Name" : "Christian Bale",
+        "Is_Added" : true,
+        "Project_Name": "The Promise",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0006",
         "Candidate_Name" : "Javier Bardem",
+        "Is_Added" : false,
         "Project_Name": "The Last Face",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      }]
+    }
+  },
+  "selectionCandidates": {
+    "data" : {
+      "Candidates": [{
+        "Candidate_ID" : "0001",
+        "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : true,
+        "Project_Name": "The Finest Hours",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0002",
+        "Candidate_Name" : "Casey Affleck",
+        "Is_Added" : false,
+        "Project_Name": "Triple 9",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0003",
+        "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : true,
+        "Project_Name": "Hidden Figures",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0004",
+        "Candidate_Name" : "Mahershala Ali",
+        "Is_Added" : false,
+        "Project_Name": "Moonlight",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0005",
+        "Candidate_Name" : "Christian Bale",
+        "Is_Added" : true,
+        "Project_Name": "The Promise",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "0006",
+        "Candidate_Name" : "Javier Bardem",
+        "Is_Added" : false,
+        "Project_Name": "The Last Face",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      }]
+    }
+  },
+  "ballotCandidates": {
+    "data" : {
+      "ballotCandidates": [{
+        "id": "1",
+        "Candidate_Name": "Mahershala Ali",
+        "Project_Name": "Moonlight"
+      },
+      {
+        "id": "2",
+        "Candidate_Name": "Lucas Hedges",
+        "Project_Name": "Manchester by the Sea"
+      },
+      {
+        "id": "3",
+        "Candidate_Name": "Dev Patel",
+        "Project_Name": "Lion"
+      },
+      {
+        "id": "4",
+        "Candidate_Name": "Jeff Bridges",
+        "Project_Name": "Lion"
       }]
     }
   }
