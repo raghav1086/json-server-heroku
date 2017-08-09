@@ -110,7 +110,7 @@
           "Contest_ID": "BP01",
           "Contest_Name" : "Best Picture of 2017",
           "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 5,
+          "Contest_NumberToElect" : 10,
           "Contest_Status" : "Active",
           "Contest_Order" : 1,
           "Election_ID" : 1,
@@ -163,7 +163,7 @@
           "Contest_Name" : "Actor in a  Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Active",
+          "Contest_Status" : "Abstained",
           "Contest_Order" : 4,
           "Election_ID" : 1,
           "Last_Updated_Date" : "2017-08-04 00:00:00.000",
@@ -282,7 +282,21 @@
               "id": 4,
               "name": "Doctor Strange",
               "lowEnd": 0,
-              "highEnd": 6,
+              "highEnd": 0,
+              "increaments": 1
+            },
+            {
+              "id": 5,
+              "name": "The Jungle Book",
+              "lowEnd": 0,
+              "highEnd": 0,
+              "increaments": 1
+            },
+            {
+              "id": 6,
+              "name": "King Kong",
+              "lowEnd": 0,
+              "highEnd": 0,
               "increaments": 1
             }
           ]
@@ -337,6 +351,48 @@
       {
         "Candidate_ID" : "cd07",
         "Candidate_Name" : "Javier Bardem",
+        "Project_Name": "The Last Face",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd08",
+        "Candidate_Name" : "Asad Jamal",
+        "Project_Name": "The Price of Forgiveness",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd09",
+        "Candidate_Name" : "Adam Benzine",
+        "Project_Name": "Spectres of the Shoah",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd10",
+        "Candidate_Name" : "Courtney Marsh",
+        "Project_Name": "War Within the Wall",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd11",
+        "Candidate_Name" : "David Darg",
+        "Project_Name": "Body Team 12",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd12",
+        "Candidate_Name" : "Jamie Donoughue",
+        "Project_Name": "Shok",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd13",
+        "Candidate_Name" : "Alles wird gut",
         "Project_Name": "The Last Face",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
