@@ -126,7 +126,7 @@
         },
         {
           "Contest_ID": "BP02",
-          "Contest_Name" : "Actor in a  Leading Role",
+          "Contest_Name" : "Actor in a Leading Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
@@ -143,7 +143,7 @@
         },
         {
           "Contest_ID": "BP03",
-          "Contest_Name" : "Actress in a  Leading Role",
+          "Contest_Name" : "Actress in a Leading Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Complete",
@@ -160,7 +160,7 @@
         },
         {
           "Contest_ID": "BP04",
-          "Contest_Name" : "Actor in a  Supporting Role",
+          "Contest_Name" : "Actor in a Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Abstained",
@@ -178,7 +178,7 @@
         },
         {
           "Contest_ID": "BP05",
-          "Contest_Name" : "Actress in a  Supporting Role",
+          "Contest_Name" : "Actress in a Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
