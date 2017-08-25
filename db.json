@@ -122,7 +122,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd01", "cd02", "cd03", "cd04"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP02",
@@ -174,7 +174,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd05", "cd06", "cd07"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP05",
@@ -192,7 +192,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd03", "cd04", "cd05"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP06",
