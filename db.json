@@ -92,7 +92,7 @@
       "contestsData": [
         {
           "Contest_ID": "BP01",
-          "Contest_Name" : "BEST PICTURE",
+          "Contest_Name" : "ACTRESS IN A LEADING ROLE",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
@@ -109,45 +109,33 @@
           "ballotCandidates": [
             {
               "id": 0,
-              "name": "Arrival"
+              "name": "Isabelle Huppert",
+              "movieName": "Elle"
             },
             {
               "id": 1,
-              "name": "Fences"
+              "name": "Ruth Negga",
+              "movieName": "Loving"
             },
             {
               "id": 2,
-              "name": "Hacksaw Ridge"
+              "name": "Natalie Portman",
+              "movieName": "Jackie"
             },
             {
               "id": 3,
-              "name": "Hell or High Water"
+              "name": "Emma Stone",
+              "movieName": "La La Land"
             },
             {
               "id": 4,
-              "name": "Hidden Figures"
-            },
-            {
-              "id": 5,
-              "name": "La La Land"
-            },
-            {
-              "id": 6,
-              "name": "Lion"
-            },
-            {
-              "id": 7,
-              "name": "Manchester by the Sea"
-            },
-            {
-              "id": 8,
-              "name": "Moonlight"
-            }
-          ]
+              "name": "Meryl Streep",
+              "movieName": "Florence Foster Jenkins"
+            }]
         },
         {
           "Contest_ID": "BP02",
-          "Contest_Name" : "ACTRESS IN A LEADING ROLE",
+          "Contest_Name" : "BEST PICTURE",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
@@ -238,36 +226,64 @@
     "data" : {
       "Candidates": [{
         "Candidate_ID" : "cd01",
-        "Candidate_Name" : "Isabelle Huppert",
-        "Project_Name": "Elle",
+        "Candidate_Name" : "Arrival",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd02",
-        "Candidate_Name" : "Ruth Negga",
-        "Project_Name": "Loving",
+        "Candidate_Name" : "Fences",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd03",
-        "Candidate_Name" : "Natalie Portman",
-        "Project_Name": "Jackie",
+        "Candidate_Name" : "Hacksaw Ridge",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd04",
-        "Candidate_Name" : "Emma Stone",
-        "Project_Name": "La La Land",
+        "Candidate_Name" : "Hell or High Water",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd05",
-        "Candidate_Name" : "Meryl Streep",
-        "Project_Name": "Florence Foster Jenkins",
+        "Candidate_Name" : "Hidden Figures",
+        "Project_Name": "",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd06",
+        "Candidate_Name" : "La La Land",
+        "Project_Name": "",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd07",
+        "Candidate_Name" : "Lion",
+        "Project_Name": "",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd08",
+        "Candidate_Name" : "Manchester by the Sea",
+        "Project_Name": "",
+        "Created_Date" : "2017-07-03 00:00:00.000",
+        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
+      },
+      {
+        "Candidate_ID" : "cd09",
+        "Candidate_Name" : "Moonlight",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       }]
