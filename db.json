@@ -184,28 +184,28 @@
               "id": 0,
               "name": "Arrival",
               "lowEnd": 0,
-              "highEnd": 8,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 1,
               "name": "The BFG",
               "lowEnd": 0,
-              "highEnd": 7,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 2,
               "name": "Captain America: Civil War",
               "lowEnd": 0,
-              "highEnd": 9,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 3,
               "name": "Deepwater Horizon",
               "lowEnd": 0,
-              "highEnd": 8,
+              "highEnd": 0,
               "increaments": 1
             },
             {
