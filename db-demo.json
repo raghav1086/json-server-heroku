@@ -16,27 +16,11 @@
       {
         "ID": 1,
         "Election_ID": "OSCARSNOMS901",
-        "Election_Name": "STUDENT ACADEMY AWARDS NOMINATIONS",
+        "Election_Name": "OSCAR NOMINATIONS VOTING",
         "Election_Year": "90",
         "Election_ShortDescription": "Desc",
         "Election_FromDate": "2017-07-03 00:00:00.000",
-        "Election_ToDate": "1499924993544",
-        "Election_PublicKey": "key",
-        "Election_Status": "Draft",
-        "Last_Updated_Date": "2017-07-04 06:13:58.557",
-        "Last_Updated_By": "eliu091",
-        "Created_Date": "2017-07-03 02:57:45.407",
-        "Created_By": "superadmin",
-        "Aux_Field": null
-      },
-      {
-        "ID": 2,
-        "Election_ID": "OSCARSNOMS902",
-        "Election_Name": "BOARD OF GOVERNORS FINALS",
-        "Election_Year": "90",
-        "Election_ShortDescription": "Desc",
-        "Election_FromDate": "2017-07-03 00:00:00.000",
-        "Election_ToDate": "1499912725480",
+        "Election_ToDate": "1484355600000",
         "Election_PublicKey": "key",
         "Election_Status": "Draft",
         "Last_Updated_Date": "2017-07-04 06:13:58.557",
@@ -52,7 +36,7 @@
         "Election_Year": "90",
         "Election_ShortDescription": "Desc",
         "Election_FromDate": "2017-07-27 00:00:00.000",
-        "Election_ToDate": "1499922725480",
+        "Election_ToDate": "1485964800000",
         "Election_PublicKey": "key",
         "Election_Status": "New",
         "Last_Updated_Date": "2017-07-04 06:13:58.557",
@@ -68,7 +52,7 @@
         "Election_Year": "90",
         "Election_ShortDescription": "Desc",
         "Election_FromDate": "2017-08-05 00:00:00.000",
-        "Election_ToDate": "1499915725480",
+        "Election_ToDate": "1493942400000",
         "Election_PublicKey": "key",
         "Election_Status": "New",
         "Last_Updated_Date": "2017-07-04 06:13:58.557",
@@ -84,7 +68,7 @@
         "Election_Year": "90",
         "Election_ShortDescription": "Desc",
         "Election_FromDate": "2017-08-05 00:00:00.000",
-        "Election_ToDate": "1499925725480",
+        "Election_ToDate": "1493942400000",
         "Election_PublicKey": "key",
         "Election_Status": "New",
         "Last_Updated_Date": "2017-08-14 06:13:58.557",
@@ -103,104 +87,16 @@
   },
   "contests": {
     "data": {
-      "electionName": "Oscar Nominations Voting",
-      "deadline": "1499925725480",
+      "electionName": "OSCAR NOMINATIONS VOTING",
+      "deadline": "1484355600000",
       "contestsData": [
         {
           "Contest_ID": "BP01",
-          "Contest_Name" : "Best Picture of 2017",
-          "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 10,
-          "Contest_Status" : "Active",
-          "Contest_Order" : 1,
-          "Election_ID" : 1,
-          "Last_Updated_Date" : "2017-07-03 00:00:00.000",
-          "Last_Updated_By" : "eliu091",
-          "Created_Date" : "2017-07-03 00:00:00.000",
-          "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
-          "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd01", "cd02", "cd03", "cd04"]
-        },
-        {
-          "Contest_ID": "BP02",
-          "Contest_Name" : "Actor in a Leading Role",
-          "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Active",
-          "Contest_Order" : 2,
-          "Election_ID" : 1,
-          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-          "Last_Updated_By" : "eliu091",
-          "Created_Date" : "2017-08-03 00:00:00.000",
-          "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
-          "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : false
-        },
-        {
-          "Contest_ID": "BP03",
-          "Contest_Name" : "Actress in a Leading Role",
-          "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Complete",
-          "Contest_Order" : 3,
-          "Election_ID" : 1,
-          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-          "Last_Updated_By" : "eliu091",
-          "Created_Date" : "2017-08-13 00:00:00.000",
-          "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
-          "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true
-        },
-        {
-          "Contest_ID": "BP04",
-          "Contest_Name" : "Actor in a Supporting Role",
-          "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Abstained",
-          "Contest_Order" : 4,
-          "Election_ID" : 1,
-          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-          "Last_Updated_By" : "eliu091",
-          "Created_Date" : "2017-08-20 00:00:00.000",
-          "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
-          "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd05", "cd06", "cd07"]
-        },
-        {
-          "Contest_ID": "BP05",
-          "Contest_Name" : "Actress in a Supporting Role",
+          "Contest_Name" : "ACTRESS IN A LEADING ROLE",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
           "Contest_Order" : 5,
-          "Election_ID" : 1,
-          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
-          "Last_Updated_By" : "eliu091",
-          "Created_Date" : "2017-08-20 00:00:00.000",
-          "Created_By" : "eliu091",
-          "Contest_Ballot_Style" : "CandidateRank",
-          "Contest_Selection_Number" : 5,
-          "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true,
-          "ballotCandidates": ["cd03", "cd04", "cd05"]
-        },
-        {
-          "Contest_ID": "BP06",
-          "Contest_Name" : "Production Design",
-          "Contest_Code" : "BP",
-          "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Active",
-          "Contest_Order" : 6,
           "Election_ID" : 1,
           "Last_Updated_Date" : "2017-08-04 00:00:00.000",
           "Last_Updated_By" : "eliu091",
@@ -213,29 +109,51 @@
           "ballotCandidates": [
             {
               "id": 0,
-              "name": "Hell or High Water"
+              "name": "Isabelle Huppert",
+              "movieName": "Elle"
             },
             {
               "id": 1,
-              "name": "La La Land"
+              "name": "Ruth Negga",
+              "movieName": "Loving"
             },
             {
               "id": 2,
-              "name": "The Lobster"
+              "name": "Natalie Portman",
+              "movieName": "Jackie"
             },
             {
               "id": 3,
-              "name": "Manchester by the Sea"
+              "name": "Emma Stone",
+              "movieName": "La La Land"
             },
             {
               "id": 4,
-              "name": "20th Century Women"
-            }
-          ]
+              "name": "Meryl Streep",
+              "movieName": "Florence Foster Jenkins"
+            }]
         },
         {
-          "Contest_ID": "BP07",
-          "Contest_Name" : "Sound Mixing",
+          "Contest_ID": "BP02",
+          "Contest_Name" : "BEST PICTURE",
+          "Contest_Code" : "BP",
+          "Contest_NumberToElect" : 5,
+          "Contest_Status" : "Active",
+          "Contest_Order" : 6,
+          "Election_ID" : 1,
+          "Last_Updated_Date" : "2017-08-04 00:00:00.000",
+          "Last_Updated_By" : "eliu091",
+          "Created_Date" : "2017-08-20 00:00:00.000",
+          "Created_By" : "eliu091",
+          "Contest_Ballot_Style" : "CandidateRank",
+          "Contest_Selection_Number" : 5,
+          "Contest_Tabulation_Type" : "Preferential",
+          "Is_Eligible" : true,
+          "ballotCandidates": []
+        },
+        {
+          "Contest_ID": "BP03",
+          "Contest_Name" : "VISUAL EFFECTS",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
           "Contest_Status" : "Active",
@@ -254,28 +172,28 @@
               "id": 0,
               "name": "Arrival",
               "lowEnd": 0,
-              "highEnd": 8,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 1,
               "name": "The BFG",
               "lowEnd": 0,
-              "highEnd": 7,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 2,
               "name": "Captain America: Civil War",
               "lowEnd": 0,
-              "highEnd": 9,
+              "highEnd": 0,
               "increaments": 1
             },
             {
               "id": 3,
               "name": "Deepwater Horizon",
               "lowEnd": 0,
-              "highEnd": 8,
+              "highEnd": 0,
               "increaments": 1
             },
             {
@@ -308,92 +226,64 @@
     "data" : {
       "Candidates": [{
         "Candidate_ID" : "cd01",
-        "Candidate_Name" : "Casey Affleck",
-        "Project_Name": "The Finest Hours",
+        "Candidate_Name" : "Arrival",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd02",
-        "Candidate_Name" : "Lucas Hedges",
-        "Project_Name": "Manchester by the Sea",
+        "Candidate_Name" : "Fences",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd03",
-        "Candidate_Name" : "Dev Patel",
-        "Project_Name": "Lion",
+        "Candidate_Name" : "Hacksaw Ridge",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd04",
-        "Candidate_Name" : "Jeff Bridges",
-        "Project_Name": "Hell or High Water",
+        "Candidate_Name" : "Hell or High Water",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd05",
-        "Candidate_Name" : "Christian Bale",
-        "Project_Name": "The Promise",
+        "Candidate_Name" : "Hidden Figures",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd06",
-        "Candidate_Name" : "Mahershala Ali",
-        "Project_Name": "Moonlight",
+        "Candidate_Name" : "La La Land",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd07",
-        "Candidate_Name" : "Javier Bardem",
-        "Project_Name": "The Last Face",
+        "Candidate_Name" : "Lion",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd08",
-        "Candidate_Name" : "Asad Jamal",
-        "Project_Name": "The Price of Forgiveness",
+        "Candidate_Name" : "Manchester by the Sea",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       },
       {
         "Candidate_ID" : "cd09",
-        "Candidate_Name" : "Adam Benzine",
-        "Project_Name": "Spectres of the Shoah",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd10",
-        "Candidate_Name" : "Courtney Marsh",
-        "Project_Name": "War Within the Wall",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd11",
-        "Candidate_Name" : "David Darg",
-        "Project_Name": "Body Team 12",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd12",
-        "Candidate_Name" : "Jamie Donoughue",
-        "Project_Name": "Shok",
-        "Created_Date" : "2017-07-03 00:00:00.000",
-        "Last_Updated_Date" : "2017-07-03 00:00:00.000"
-      },
-      {
-        "Candidate_ID" : "cd13",
-        "Candidate_Name" : "Alles wird gut",
-        "Project_Name": "The Last Face",
+        "Candidate_Name" : "Moonlight",
+        "Project_Name": "",
         "Created_Date" : "2017-07-03 00:00:00.000",
         "Last_Updated_Date" : "2017-07-03 00:00:00.000"
       }]
