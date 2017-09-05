@@ -139,7 +139,8 @@
           "Contest_Ballot_Style" : "CandidateRank",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : false
+          "Is_Eligible" : false,
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP03",
@@ -156,7 +157,8 @@
           "Contest_Ballot_Style" : "CandidateRank",
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
-          "Is_Eligible" : true
+          "Is_Eligible" : true,
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP04",
