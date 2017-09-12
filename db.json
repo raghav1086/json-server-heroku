@@ -1,17 +1,24 @@
 {
-  "login": {
+  "getToken": {
     "data": {
-        "access_token": "s0m3r8n60m32a1i8h2y9u0t4",
-        "expires_in": 86399,
-        "token_type":"bearer"
+      "accessToken": "76abb10b-372a-4b1d-8272-f60a508f5ca9",
+      "expiresIn": 7200,
+      "tokenType": "Bearer",
+      "bypassTwoFA": false,
+      "phoneNumber": "+12295164525"
      }
    },
-  "twoFactorAuth": {
+  "get2FA": {
     "data": {
         "authenticated": true
      }
    },
-  "elections": {
+  "sendPin": {
+    "data": {
+        "hasSent": true
+     }
+   },
+  "getElections": {
     "data": [
       {
         "ID": 1,
