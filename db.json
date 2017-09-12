@@ -1,7 +1,7 @@
 {
   "getToken": {
     "data": {
-      "accessToken": "76abb10b-372a-4b1d-8272-f60a508f5ca9",
+      "accessToken": "76abb10b-372a-4b1d-8272-f60a508f5cb9",
       "expiresIn": 7200,
       "tokenType": "Bearer",
       "bypassTwoFA": false,
