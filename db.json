@@ -1,7 +1,7 @@
 {
   "getToken": {
     "data": {
-      "accessToken": "76abb10b-372a-4b1d-8272-f60a508f5cb9",
+      "accessToken": "76abb10b-372a-4b1d-8272-f60a508f5ca9",
       "expiresIn": 7200,
       "tokenType": "Bearer",
       "bypassTwoFA": false,
@@ -129,7 +129,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd01", "cd02", "cd03", "cd04"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP02",
@@ -154,7 +154,7 @@
           "Contest_Name" : "Actress in a Leading Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Complete",
+          "Contest_Status" : "Active",
           "Contest_Order" : 3,
           "Election_ID" : 1,
           "Last_Updated_Date" : "2017-08-04 00:00:00.000",
@@ -172,7 +172,7 @@
           "Contest_Name" : "Actor in a Supporting Role",
           "Contest_Code" : "BP",
           "Contest_NumberToElect" : 5,
-          "Contest_Status" : "Abstained",
+          "Contest_Status" : "Active",
           "Contest_Order" : 4,
           "Election_ID" : 1,
           "Last_Updated_Date" : "2017-08-04 00:00:00.000",
@@ -183,7 +183,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd05", "cd06", "cd07"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP05",
@@ -201,7 +201,7 @@
           "Contest_Selection_Number" : 5,
           "Contest_Tabulation_Type" : "Preferential",
           "Is_Eligible" : true,
-          "ballotCandidates": ["cd03", "cd04", "cd05"]
+          "ballotCandidates": []
         },
         {
           "Contest_ID": "BP06",
@@ -263,21 +263,21 @@
               "id": 0,
               "name": "Arrival",
               "lowEnd": 0,
-              "highEnd": 8,
+              "highEnd": -1,
               "increaments": 1
             },
             {
               "id": 1,
               "name": "The BFG",
               "lowEnd": 0,
-              "highEnd": 7,
+              "highEnd": -1,
               "increaments": 1
             },
             {
               "id": 2,
               "name": "Captain America: Civil War",
               "lowEnd": 0,
-              "highEnd": 9,
+              "highEnd": -1,
               "increaments": 1
             },
             {
@@ -291,21 +291,21 @@
               "id": 4,
               "name": "Doctor Strange",
               "lowEnd": 0,
-              "highEnd": 0,
+              "highEnd": -1,
               "increaments": 1
             },
             {
               "id": 5,
               "name": "The Jungle Book",
               "lowEnd": 0,
-              "highEnd": 0,
+              "highEnd": -1,
               "increaments": 1
             },
             {
               "id": 6,
               "name": "King Kong",
               "lowEnd": 0,
-              "highEnd": 0,
+              "highEnd": -1,
               "increaments": 1
             }
           ]
